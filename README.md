@@ -475,7 +475,7 @@ This project is open source and available under the MIT License.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@Brijesg1657](https://github.com/Brijesh1656)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
@@ -488,33 +488,9 @@ This project is open source and available under the MIT License.
 - scikit-learn for powerful ML tools
 - Tailwind CSS for beautiful styling
 - Recharts for data visualization
-- Vercel for seamless deployment
 
 ---
 
-## 📸 Screenshots
-
-### Dashboard Overview
-![Dashboard](https://via.placeholder.com/800x450/0f172a/3b82f6?text=Smart+Factory+Dashboard)
-
-### Predictive Maintenance
-![Maintenance](https://via.placeholder.com/800x450/0f172a/ef4444?text=Maintenance+Predictions)
-
-### Anomaly Detection
-![Anomaly](https://via.placeholder.com/800x450/0f172a/f59e0b?text=Anomaly+Detection)
-
-### Yield Optimization
-![Yield](https://via.placeholder.com/800x450/0f172a/10b981?text=Yield+Optimization)
-
----
-
-## 🔗 Links
-
-- [Documentation](https://github.com/yourusername/smart-factory-analytics/wiki)
-- [Issues](https://github.com/yourusername/smart-factory-analytics/issues)
-- [Discussions](https://github.com/yourusername/smart-factory-analytics/discussions)
-
----
 
 <div align="center">
 
@@ -522,6 +498,5 @@ This project is open source and available under the MIT License.
 
 Made with ❤️ for Industry 4.0
 
-[Report Bug](https://github.com/yourusername/smart-factory-analytics/issues) · [Request Feature](https://github.com/yourusername/smart-factory-analytics/issues)
 
 </div>
