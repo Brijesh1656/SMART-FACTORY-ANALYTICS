@@ -477,7 +477,7 @@ This project is open source and available under the MIT License.
 **Your Name**
 - GitHub: [@Brijesh1657](https://github.com/Brijesh1656)
 - LinkedIn: [Brijesh Singh](https://www.linkedin.com/in/brijesh-singh-b84275307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- Portfolio: [yourportfolio.com](https://brijeshsingh-ai.netlify.app/)
 
 ---
 
