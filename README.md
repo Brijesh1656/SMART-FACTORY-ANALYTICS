@@ -38,32 +38,6 @@ Smart Factory Analytics is a comprehensive IoT and ML-powered platform designed 
 - 🚀 **Cloud Deployable**: Production-ready for Railway, Render, or VPS
 - 🧪 **Synthetic Data Generator**: Test with realistic factory sensor data
 
----
-
-## 🎥 Live Demo
-
-**🌐 Live Application**: [Deploy Your Own](#-deployment-options)
-
-**📹 Video Walkthrough**: Coming Soon
-
-### Screenshots
-
-<details>
-<summary>Click to view screenshots</summary>
-
-#### Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
-
-#### Predictive Maintenance
-![Maintenance](screenshots/maintenance.png)
-
-#### Anomaly Detection
-![Anomaly](screenshots/anomaly.png)
-
-#### Yield Optimization
-![Yield](screenshots/yield.png)
-
-</details>
 
 ---
 
